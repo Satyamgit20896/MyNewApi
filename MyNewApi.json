@@ -1,0 +1,75 @@
+
+[
+    {
+        "id": 1,
+        "fname1": "neha",
+        "lname1": "verma",
+        "email1": "neha@gmail.com",
+        "gender": "female",
+        "city": "bela"
+    },
+    {
+        "id": 2,
+        "fname1": "rajeev",
+        "lname1": "singh",
+        "email1": "raj@gmail.com",
+        "gender": "male",
+        "city": "goa"
+    },
+    {
+        "id": 3,
+        "fname1": "farin",
+        "lname1": "khan",
+        "email1": "fari@gmail.com",
+        "gender": "female",
+        "city": "indore"
+    },
+    {
+        "id": 4,
+        "fname1": "anand",
+        "lname1": "gupta",
+        "email1": "ana@gmail.com",
+        "gender": "male",
+        "city": "indore"
+    },
+    {
+        "id": 5,
+        "fname1": "anuj",
+        "lname1": "khan",
+        "email1": "anu@gmail.com",
+        "gender": "male",
+        "city": "goa"
+    },
+    {
+        "id": 7,
+        "fname1": "angali",
+        "lname1": "verma",
+        "email1": "anju@gmail.com",
+        "gender": "female",
+        "city": "indore"
+    },
+    {
+        "id": 8,
+        "fname1": "rinku",
+        "lname1": "singh",
+        "email1": "rinku@gmail.com",
+        "gender": "male",
+        "city": "indore"
+    },
+    {
+        "id": 9,
+        "fname1": "anish",
+        "lname1": "bagwan",
+        "email1": "anish@gmail.com",
+        "gender": "male",
+        "city": "devas"
+    },
+    {
+        "id": 10,
+        "fname1": "kartikey",
+        "lname1": "sharma",
+        "email1": "kartikey@gmail.com",
+        "gender": "male",
+        "city": "badhwani"
+    }
+]
